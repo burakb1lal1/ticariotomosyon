@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Dbo_TicariOtomosyonDataSet" targetNamespace="http://tempuri.org/Dbo_TicariOtomosyonDataSet.xsd" xmlns:mstns="http://tempuri.org/Dbo_TicariOtomosyonDataSet.xsd" xmlns="http://tempuri.org/Dbo_TicariOtomosyonDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Dbo_TicariOtomosyonConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Dbo_TicariOtomosyonConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Ticari_Otomosyon.Properties.Settings.GlobalReference.Default.Dbo_TicariOtomosyonConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Dbo_TicariOtomosyonDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="Dbo_TicariOtomosyonDataSet" msprop:Generator_DataSetName="Dbo_TicariOtomosyonDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
